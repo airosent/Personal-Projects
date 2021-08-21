@@ -1,2 +1,1 @@
-# Personal-Projects
-These are personal projects that I have created to showcase my skills. 
+This is a rock, paper, scissor game. The player will be playing the computer. 
